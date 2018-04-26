@@ -1,0 +1,12 @@
+/* 1) There is a 100x100 square on the page. Its background is blue. It’s positioned 40px to the top and 40px to the left.
+  */
+
+  /* Added above requirements to square element and included position */
+  #square {
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      margin-top: 40px;
+      margin-left: 40px;
+      position: absolute;
+  }
