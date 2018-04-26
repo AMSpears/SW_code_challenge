@@ -8,6 +8,6 @@ $(function(){
         $("div").animate({
             right:"40px",
             position:"fixed"
-        })
+        },4000) // add 4000 milliseconds to the animation
     })
 })
